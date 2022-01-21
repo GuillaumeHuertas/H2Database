@@ -22,7 +22,7 @@
 			<!-- S'assurer que la version de H2 correspond à celle installé ! -->
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>1.4.199</version>
+			<version>2.1.210</version>
 			<!-- Pour utiliser le scope test, il est nécessaire d'avoir une autre SGBD (PostreSQL, MAriaDB ...)
 			<scope>test</scope>
 			 -->
